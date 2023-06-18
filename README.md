@@ -35,7 +35,7 @@
 |08| Joaomiguelgcrp      | jpereira.mfa2023@london.edu |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |09| Nikita Reid      | NikitaReid |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |10|Ronapat Srisupavanich       | ronapats |<https://github.com/ronapats/my_website>   |<https://ronapat-portfolio.netlify.app/>        |2023-05-11 |
-|11|Chatiwat Phlaingam       | Chatiwat Phlaingam  |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|11|Chatiwat Phlaingam       | Chatiwat Phlaingam  |<https://github.com/Getchatiwat/my_website>   |<https://getchatiwat-portfolio.netlify.app/>        |2023-06-18 |
 |12|Nina Ferrer-Erikss       | nina-eriksson |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |13|Paula Lagos R       | paulalagosr |website   |netfly   |2021-05-11 |
 |14|Eugene Nesterenko       | YevheniiN281 | TBA   | TBA       |2023-05-11 |
